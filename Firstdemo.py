@@ -17,6 +17,13 @@ print("{} {}".format("value is",b))
 
 print(type(b))
 
-
-
+# For printing total count of columns from a table we can use the below code
+# col_name=len(df_NAME.columns)
+# print("Total_col",col_name)
+#
+# #For printing the columns from table
+# print(df_NAME.columns)
+#
+# #For printing schema
+# print(df_name.schema)
 
