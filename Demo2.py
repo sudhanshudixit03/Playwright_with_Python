@@ -33,3 +33,11 @@ print (values)
 #               delete multiple values in a list of variable
 del values[0:1]
 print (values)
+
+# dictionary is a data type that allow multiple values and can be different data types but it is unordered and it is mutable
+dic = {"a":2,4:"bcd","c":"hello world"}
+print (dic[4])  # Output: "bcd"
+print (dic["a"])  # Output: 2
+print (dic["c"])  # Output: "hello world"
+print (dic["a"])
+print (dic[4])
