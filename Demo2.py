@@ -41,3 +41,18 @@ print (dic["a"])  # Output: 2
 print (dic["c"])  # Output: "hello world"
 print (dic["a"])
 print (dic[4])
+
+
+# create empty dictionary
+dict ={}
+
+# now adding values into it
+
+dict["first name"]= "Sid"
+dict ["last name"] = "dixit"
+print(dict)
+
+dict["my name"] = "mentioned above"
+
+dict["age"] = 28
+print (dict)
