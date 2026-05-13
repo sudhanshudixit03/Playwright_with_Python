@@ -7,3 +7,4 @@ class calculator:
 obj = calculator()
 obj.getdata()
 print(obj.num)
+
