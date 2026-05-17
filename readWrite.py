@@ -22,3 +22,5 @@ for line in file.readlines():
 
 
 file.close()
+
+#how to insert data into a file

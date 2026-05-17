@@ -1,5 +1,4 @@
 abc
 bvvdsf
 cat
-dog
-elephant
+elephantdog
