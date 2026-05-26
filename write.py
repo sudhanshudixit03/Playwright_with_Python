@@ -10,7 +10,6 @@ with open ('test.txt', 'r') as reader:          #using reader as object because 
     reversed(content)                   #output will be in reversed list =[elephant,dog,cat,bvvdsf,abc]
 
 
-
            # and if we want to write the file we should use 'w'
 
 
